@@ -1,25 +1,0 @@
-8
-
-dir
-1042
-svn+ssh://schillin@bilbo.ce.chalmers.se/cab/ce/work/research/proj/flexsoc/subsys/svnrep/trunk/projects/flexTools/compiler/minisat
-svn+ssh://schillin@bilbo.ce.chalmers.se/cab/ce/work/research/proj/flexsoc/subsys/svnrep
-
-
-
-2008-03-13T17:19:42.343871Z
-1042
-schillin
-
-
-svn:special svn:externals svn:needs-lock
-
-current-base
-dir
-
-CVS
-dir
-
-mtl
-dir
-
